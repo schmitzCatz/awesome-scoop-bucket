@@ -18,7 +18,7 @@ After manifests have been committed and pushed, run the following:
 
 ```pwsh
 scoop bucket add awsome-scoop-bucket https://github.com/schmitzCatz/awesome-scoop-bucket
-scoop install scoop-awsome-bucket/<manifestname>
+scoop install scoop-awesome-bucket/<manifestname>
 ```
 
 ## 🤝 How do I contribute new manifests?
