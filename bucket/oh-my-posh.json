@@ -1,0 +1,47 @@
+{
+  "version": "18.10.3",
+  "description": "A prompt theme engine for any shell",
+  "homepage": "https://ohmyposh.dev",
+  "license": {
+    "identifier": "MIT",
+    "url": "https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/COPYING"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v18.10.3/install-amd64.exe",
+      "hash": "55285E52900DD7C1002B9B4B8D4DAF8760519F8AFEF0C084F51B68620F752D1C"
+    },
+    "32bit": {
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v18.10.3/install-386.exe",
+      "hash": "B69D942B499CE0055848C8699BF683A0832CEED6E45D5007E032CA98D44DA1AE"
+    }
+  },
+  "installer": {
+    "args": [
+      "/CURRENTUSER",
+      "/VERYSILENT",
+      "/INSTALLER=scoop"
+    ]
+  },
+  "checkver": {
+    "github": "https://github.com/JanDeDobbeleer/oh-my-posh"
+  },
+  "post_install": [
+    "Write-Host 'Thanks for installing Oh My Posh.'",
+    "Write-Host 'Have a look at https://ohmyposh.dev for detailed instructions for your shell.'"
+  ],
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v18.10.3/install-amd64.exe"
+      },
+      "32bit": {
+        "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v18.10.3/install-386.exe"
+      }
+    },
+    "hash": {
+      "url": "$url.sha256"
+    }
+  }
+}
+

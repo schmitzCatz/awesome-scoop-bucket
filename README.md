@@ -8,9 +8,10 @@ Awesome bucket for [Scoop](https://scoop.sh), the Windows command-line installer
 
 ## 📚 Additional Applications
 
-| Application   |Manifest       | Link                                      | Command                           |
-|---            |---            |---                                        |---                                |
-|Orca Slicer    |`orca-slicer`  |https://github.com/SoftFever/OrcaSlicer    |```scoop install orca-slicer```    |
+| Application   |Manifest       | Link                                          | Command                           |
+|---            |---            |---                                            |---                                |
+|Orca Slicer    |`orca-slicer`  |<https://github.com/SoftFever/OrcaSlicer>      |```scoop install orca-slicer```    |
+|Oh-My-Posh     |`oh-my-posh`   |<https://github.com/JanDeDobbeleer/oh-my-posh> |```scoop install oh-my-posh```     |
 
 ## 🚀 How do I install these manifests?
 

@@ -12,7 +12,9 @@
             "OrcaSlicer"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+      "github": "https://github.com/SoftFever/OrcaSlicer"
+    },
     "autoupdate": {
         "url": "https://github.com/SoftFever/OrcaSlicer/releases/download/v$version/OrcaSlicer_Windows_V$version_portable.zip"
     }
