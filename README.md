@@ -17,7 +17,7 @@ Awesome bucket for [Scoop](https://scoop.sh), the Windows command-line installer
 After manifests have been committed and pushed, run the following:
 
 ```pwsh
-scoop bucket add scoop-awsome-bucket https://github.com/schmitzCatz/awesome-scoop-bucket
+scoop bucket add awsome-scoop-bucket https://github.com/schmitzCatz/awesome-scoop-bucket
 scoop install scoop-awsome-bucket/<manifestname>
 ```
 
