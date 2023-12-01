@@ -29,6 +29,7 @@ and [App Manifests](https://github.com/ScoopInstaller/Scoop/wiki/App-Manifests)
 wiki page.
 
 Hash installationfiles on windows:
+
 ```pwsh
 certutil -hashfile "filename.exe" SHA256
 ```
