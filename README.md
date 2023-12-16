@@ -8,9 +8,10 @@ Awesome bucket for [Scoop](https://scoop.sh), the Windows command-line installer
 
 ## 📚 Additional Applications
 
-| Application   |Manifest       | Link                                          | Command                           |
-|---            |---            |---                                            |---                                |
-|Orca Slicer    |`orca-slicer`  |<https://github.com/SoftFever/OrcaSlicer>      |```scoop install orca-slicer```    |
+| Application           |Manifest             | Link                                                 | Command                              |
+|---                    |---                  |---                                                   |---                                   |
+|Orca Slicer            |`orca-slicer`        |<https://github.com/SoftFever/OrcaSlicer>             |```scoop install orca-slicer```       |
+|Contextmenumanager     |`contextmenumanager` |<https://github.com/BluePointLilac/ContextMenuManager>|```scoop install conextmenumanager``` |
 
 ## 🚀 How do I install these manifests?
 
@@ -32,6 +33,12 @@ Hash installationfiles on windows:
 
 ```pwsh
 certutil -hashfile "filename.exe" SHA256
+```
+
+Or:
+
+```pwsh
+Get-FileHash "filename"
 ```
 
 ## ⚖️ License
