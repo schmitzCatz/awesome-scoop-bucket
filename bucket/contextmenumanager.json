@@ -7,7 +7,12 @@
     "url": "https://github.com/BluePointLilac/ContextMenuManager/releases/download/3.3.3.1/ContextMenuManager.zip",
     "hash": "3FAECB2AE6C9D025DF54BDC72D4B0F850A4931DD41235F7F46B291824D3B5DBE",
     "bin": "ContextMenuManager.NET.4.0.exe",
-    "shortcuts": [["ContextMenuManager.NET.4.0.exe", "cmm"]],
+    "shortcuts": [
+        [
+            "ContextMenuManager.NET.4.0.exe",
+            "cmm"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/BluePointLilac/ContextMenuManager"
     },
