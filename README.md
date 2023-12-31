@@ -12,7 +12,7 @@ Awesome bucket for [Scoop](https://scoop.sh), the Windows command-line installer
 |---                        |---                    |---                                                    |---                                            |
 |Orca Slicer                |`orca-slicer`          |<https://github.com/SoftFever/OrcaSlicer>              |```scoop install orca-slicer```                |
 |Contextmenumanager         |`contextmenumanager`   |<https://github.com/BluePointLilac/ContextMenuManager> |```scoop install conextmenumanager```          |
-|FlipperAnimationManager    |`FlipperAM`            |<https://github.com/Ooggle/FlipperAnimationManager>    |```scoop install flipper-aimation-manager```   |
+|FlipperAnimationManager    |`FlipperAM`            |<https://github.com/Ooggle/FlipperAnimationManager>    |```scoop install flipper-animation-manager```  |
 
 ## 🚀 How do I install these manifests?
 
