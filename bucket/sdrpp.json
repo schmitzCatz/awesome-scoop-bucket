@@ -9,7 +9,8 @@
     "extract_dir": "sdrpp_windows_x64",
     "shortcuts": [
         [
-            "sdrpp.exe"
+            "sdrpp.exe",
+            "sdrpp"
         ]
     ],
     "checkver": {
