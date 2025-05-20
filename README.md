@@ -14,6 +14,7 @@ Awesome bucket for [Scoop](https://scoop.sh), the Windows command-line installer
 |Contextmenumanager         |`contextmenumanager`   |<https://github.com/BluePointLilac/ContextMenuManager> |```scoop install conextmenumanager```          |
 |FlipperAnimationManager    |`FlipperAM`            |<https://github.com/Ooggle/FlipperAnimationManager>    |```scoop install flipper-animation-manager```  |
 |SDRPlusPlus                |`sdr++`                |<https://github.com/AlexandreRouma/SDRPlusPlus>        |```scoop install sdr++```                      |
+|gdx|`gdx-liftoff`|<https://github.com/libgdx/gdx-liftoff> | ```scoop install gdx-liftoff```|
 
 ## 🚀 How do I install these manifests?
 
