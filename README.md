@@ -1,4 +1,4 @@
-# Schmitz Catz Scoop Awesome Bucket
+# 🕶️ Awesome Scoop Bucket
 
 ![Scoop Awesome Bucket](https://img.shields.io/badge/scoop-awesome--bucket-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRpdGxlPmljZS1jcmVhbTwvdGl0bGU+PHBhdGggZmlsbD0iI2VmZWZlZiIgZD0iTTE3LjUgNi4wNUMxNy4yNSAzLjIyIDE0Ljg5IDEgMTIgMVM2Ljc1IDMuMjIgNi41IDYuMDVDNS4wOSA2LjI4IDQgNy41IDQgOUM0IDEwLjY2IDUuMzQgMTIgNyAxMkwxMiAyMkwxNyAxMkMxOC42NiAxMiAyMCAxMC42NiAyMCA5QzIwIDcuNSAxOC45MSA2LjI4IDE3LjUgNi4wNU0xMiAxNy41M0w4Ljg5IDExLjMxQzguOTUgMTEuMjYgOSAxMS4yMSA5LjA4IDExLjE2QzkuOTMgMTEuNjkgMTAuOTMgMTIgMTIgMTJTMTQuMDcgMTEuNjkgMTQuOTIgMTEuMTZDMTUgMTEuMjEgMTUuMDUgMTEuMjYgMTUuMTEgMTEuMzFMMTIgMTcuNTNaIiAvPjwvc3ZnPg==)
 [![Tests](https://github.com/schmitzCatz/awesome-scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/schmitzCatz/awesome-scoop-bucket/actions/workflows/ci.yml)
@@ -14,7 +14,8 @@ Awesome bucket for [Scoop](https://scoop.sh), the Windows command-line installer
 |Contextmenumanager         |`contextmenumanager`   |<https://github.com/BluePointLilac/ContextMenuManager> |```scoop install conextmenumanager```          |
 |FlipperAnimationManager    |`FlipperAM`            |<https://github.com/Ooggle/FlipperAnimationManager>    |```scoop install flipper-animation-manager```  |
 |SDRPlusPlus                |`sdr++`                |<https://github.com/AlexandreRouma/SDRPlusPlus>        |```scoop install sdr++```                      |
-|gdx|`gdx-liftoff`|<https://github.com/libgdx/gdx-liftoff> | ```scoop install gdx-liftoff```|
+|gdx                        |`gdx-liftoff`          |<https://github.com/libgdx/gdx-liftoff>                |```scoop install gdx-liftoff```                |
+|AsusProfiler               |`asus-profiler`        |<https://github.com/javasuns/AsusProfiler>             |```scoop install asus-profiler```              |
 
 ## 🚀 How do I install these manifests?
 
